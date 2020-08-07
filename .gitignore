@@ -181,3 +181,5 @@ Temporary Items
 # Custom
 fastText/*.bin
 fastText/*.vec
+dataset/*.bin
+dataset/*.vec
