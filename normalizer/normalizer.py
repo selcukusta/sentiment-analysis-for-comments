@@ -37,7 +37,14 @@ if __name__ == "__main__":
         "Ürünü yaklaşık iki aydır kullanıyorum. Daha doğrusu kullanmaya çalışıyorum. Kulaklıklardan biri diğerini görmüyor. Bir kez servise gitti. Şuan yine aynı problemi yaşıyorum. Kesinlikle tavsiye etmiyorum.",
         "Üründe çok ciddi bir gecikme sıkıntısı var. Bazen 1 saniyelere kadar çıkıyor. Bazense hissedilmeyecek kadar azalıyor ama çok nadir. Onun dışında ses kalitesini gerçekten beğenmedim. 40 liralık başka bir kulaklık ile karşılaştırdığımda bariz bir şekilde kötü. Sesler tenekeden geliyor gibi. Çok uzun saatler kulaklıkla müzik dinleyen ben bununla yarım saatte baş ağrısından bırakıyorum. Bilgisayardan kullanmak gibi bir niyetiniz varsa ayrıca uzak durun. Bağlanıyor direk ancak ses alma konusunda tam bir fiyasko. Bağlı olmasına rağmen ses alabilmek için her seferinde en az 15 dk bununla uğraştım. Zaten geç gelen kalitesiz bir ses var onu bile düzenli alamıyorsunuz 3-5 dkda bir ses yarım saniyeliğine bir saniyeliğine kesiliyor. Sürekli ne oldu diyerek tetikte bekliyorsunuz. Onun dışında tasarım olarak başarılı. Kutusu gayet taşınabilir ve şık. Şarj konusunda birşey diyemiyorum çünkü çok çektirdi kullanamadım.",
         "Teslimat çok hızlı ve sorunsuz oldu, bunun için teşekkür ederim. Ürünün kalitesi beklentileri karşılıyor. Kullanımı çok kolay. Bağlantı veya konuşmada sorun yaşamadım. Kulak içinde durması için gönderilen yedek aparat silikonlarla rahat ettiğimi söyleyebilirim. Sesimin iletilmesinde hiç sorun yaşamadım. Müzik dinlerken dışardan gelen sesleri çok kapatamıyor ancak açıkcası bunu çok da istemiyorum çünkü yolda yürürken müzik dinlerken tamamen izole olmak oluşabilecek bir tehlikeyi fark edememek beni tedirgin ediyor. Sesi biraz daha açıp dış seslerden gelen etkiyi azaltmak mümkün. Tek eksiği ses ayarının telefonda yapılabilir olması. Bu fiyat için uygun bir ürün bence.",
-        "anne ve babam için almıştım. Kablotv seyrediyorlar. Kurulum kolay oldu.Beklentilerini fazlasıyla karşıladı. Görüntü kalitesi güzel. Pahalı tv almaya gerek görmedik. Doğru tercih yapmışız."
+        "anne ve babam için almıştım. Kablotv seyrediyorlar. Kurulum kolay oldu.Beklentilerini fazlasıyla karşıladı. Görüntü kalitesi güzel. Pahalı tv almaya gerek görmedik. Doğru tercih yapmışız.",
+        "böyle bir şeyi kabul edemem",
+        "tasarımı güzel ancak ürün açılmış tavsiye etmem",
+        "bu işten çok sıkıldım artık",
+        "kötü yorumlar gözümü korkutmuştu ancak hiçbir sorun yaşamadım teşekkürler",
+        "yaptığın işleri hiç beğenmiyorum",
+        "tam bir fiyat performans ürünü beğendim",
+        "Bu ürünü beğenmedim"
     ]
     for text in sentences:
         print(f"-> {normalize(text)}")
