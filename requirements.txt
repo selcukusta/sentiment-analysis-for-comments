@@ -1,5 +1,5 @@
 emoji==0.5.4
 random_user_agent==1.0.1
 nltk==3.4.5
-requests==2.22.0
+requests==2.31.0
 beautifulsoup4==4.9.1
